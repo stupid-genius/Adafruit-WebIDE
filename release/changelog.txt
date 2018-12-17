@@ -1,3 +1,21 @@
+-0.8.0
+Add simple python3 support
+Fix debug populating variables
+
+-0.7.0
+Update pug dependency
+Updates to installer and uninstaller
+
+-0.6.0
+Initial pre-release of the simplified webide
+
+-0.3.12
+Add missing cookie package
+
+-0.3.11
+Fixes for installation errors
+Fix some deprecated messages
+
 -0.3.10
 Fix for settings being undefined in offline mode
 
@@ -15,7 +33,7 @@ Handle file rename errors, including detecting renames with same name.
 -0.3.7
 Github support.
  - Ability to enable with --github as the default
- - Advanced setting.  
+ - Advanced setting.
  - Requires manual ssh key setup as of yet.
  - Most commands are treated as manual mode for now (manual commits, etc).
 New Offline mode
